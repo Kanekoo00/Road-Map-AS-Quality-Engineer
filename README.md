@@ -9,3 +9,6 @@ let's see how far I can reach the goals 😄.
 
 🔗  [My Linkedin Profile](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
 
+This is my first portofolio, check in the link below :
+
+📄 [Project E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
