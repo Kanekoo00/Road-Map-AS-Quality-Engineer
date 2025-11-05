@@ -7,5 +7,5 @@ Hi, my name is Budi and this is my journey to be a Quality Engineer in professio
 Through this page, I'll share everything I've learned through self-study, courses, and projects to improve my skills.
 let's see how far I can reach the goals 😄.
 
-[Linkedin] (https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
+[Linkedin](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
 
