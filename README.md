@@ -20,6 +20,8 @@ This is my first portofolio, check in the link below :
 
 ## -- More projects coming soon — including test automation and API testing.
 
+![Status](https://img.shields.io/badge/Path-Quality_Assurance-blue)
+![Learning](https://img.shields.io/badge/Learning_Track-Manual_|_API_|_Automation-success)
 
 ## 🎯 Learning Focus Areas
 - Manual Testing & Test Case Design
