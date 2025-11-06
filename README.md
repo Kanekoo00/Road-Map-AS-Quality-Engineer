@@ -17,7 +17,7 @@ This is my portofolio, check in the link below :
 
 📄 [Project E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
 
-📄 
+📄 [Manual API Testing Using Insomnia](https://github.com/Kanekoo00/Performed-manual-API-testing-using-Insomnia-on-Swagger-Petstore-API-)
 
 ## -- More projects coming soon — including test automation and API testing.
 
