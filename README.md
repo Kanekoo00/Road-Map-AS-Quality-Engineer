@@ -13,10 +13,11 @@ My goal is to build strong technical and analytical skills as a future QA Engine
 
 🔗  [My Linkedin Profile](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
 
-This is my first portofolio, check in the link below :
+This is my portofolio, check in the link below :
 
 📄 [Project E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
 
+📄 
 
 ## -- More projects coming soon — including test automation and API testing.
 
