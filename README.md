@@ -15,9 +15,14 @@ My goal is to build strong technical and analytical skills as a future QA Engine
 
 This is my portofolio, check in the link below :
 
+📌 Berikut project manual testing web E-Commerce LUMA :
 📄 [Project E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
 
+📌 Berikut project manual testing on Swagger Petstore API
 📄 [Manual API Testing Using Insomnia](https://github.com/Kanekoo00/Performed-manual-API-testing-using-Insomnia-on-Swagger-Petstore-API-)
+
+📌 Berikut project manual testing on Swagger Petstore API
+
 
 ## -- More projects coming soon — including test automation and API testing.
 
