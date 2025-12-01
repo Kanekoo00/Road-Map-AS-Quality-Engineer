@@ -25,7 +25,7 @@ This is my portofolio, check in the link below :
 📄 [Manual API Testing Using Insomnia](https://github.com/Kanekoo00/Performed-manual-API-testing-using-Insomnia-on-Swagger-Petstore-API-)
 
 📌 Berikut project stress testing on Petstore API
-📄 [Stress Testing on Petstore API])(https://github.com/Kanekoo00/Stress-Test-Portofolio)
+📄 [Stress Testing on Petstore API](https://github.com/Kanekoo00/Stress-Test-Portofolio)
 
 ## -- More projects coming soon — including test automation and API testing.
 
