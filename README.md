@@ -19,7 +19,7 @@ This is my portofolio, check in the link below :
 📄 [Project E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
 
 📌 Berikut project automation testing web E-Commerce LUMA :
-📄 [Project Automation E-Commerce LUMA](https://github.com/Kanekoo00/QA-Portfolio-Ecommerce-LUMA/tree/main)
+📄 [Project Automation E-Commerce LUMA](https://github.com/Kanekoo00/QA-Automation-Project---LUMA-E-Commerce)
 
 📌 Berikut project manual testing on Swagger Petstore API
 📄 [Manual API Testing Using Insomnia](https://github.com/Kanekoo00/Performed-manual-API-testing-using-Insomnia-on-Swagger-Petstore-API-)
