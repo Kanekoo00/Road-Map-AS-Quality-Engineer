@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kaneko00 | QA Engineer Portfolio</title>
+  <meta name="description" content="QA Engineer portfolio showcasing manual testing, API testing, and automation practice." />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #38bdf8;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, Arial, Helvetica, sans-serif;
+      background: linear-gradient(180deg, #020617, #0f172a);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 24px;
+    }
+
+    .hero {
+      max-width: 720px;
+    }
+
+    .hero h1 {
+      font-size: 40px;
+      margin-bottom: 8px;
+    }
+
+    .hero h2 {
+      font-size: 22px;
+      font-weight: normal;
+      color: var(--accent);
+      margin-top: 0;
+    }
+
+    .hero p {
+      color: var(--muted);
+      margin: 20px 0 32px;
+    }
+
+    .cta a {
+      display: inline-block;
+      margin: 6px;
+      padding: 10px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 14px;
+      background: var(--accent);
+      color: #020617;
+      font-weight: 600;
+    }
+
+    section {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 80px 24px;
+    }
+
+    h3 {
+      font-size: 26px;
+      margin-bottom: 12px;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      max-width: 700px;
+      margin-bottom: 40px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .card {
+      background: var(--card);
+      padding: 24px;
+      border-radius: 14px;
+      border: 1px solid #1f2933;
+    }
+
+    .card h4 {
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+
+    .card ul {
+      padding-left: 18px;
+      margin: 12px 0;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .card a {
+      color: var(--accent);
+      font-size: 14px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .skills span {
+      display: inline-block;
+      margin: 6px 6px 0 0;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: #020617;
+      border: 1px solid #1f2933;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 14px;
+      color: var(--muted);
+      border-top: 1px solid #1f2933;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header>
+    <div class="hero">
+      <h1>Kaneko00</h1>
+      <h2>Quality Assurance Engineer</h2>
+      <p>
+        QA Engineer focused on manual testing, API testing, and building clear test documentation
+        to ensure product quality and reliability.
+      </p>
+      <div class="cta">
+        <a href="#projects">View Projects</a>
+        <a href="https://github.com/kanekoo00" target="_blank">GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <h3>About Me</h3>
+    <p class="subtitle">
+      I have a background in Informatics and experience working with manual QA processes.
+      I enjoy translating requirements into test cases, executing tests, and reporting bugs
+      in a structured and communicative way.
+    </p>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <h3>Skills & Tools</h3>
+    <div class="skills">
+      <span>Manual Testing</span>
+      <span>Functional Testing</span>
+      <span>Regression Testing</span>
+      <span>Sanity Testing</span>
+      <span>API Testing (Postman)</span>
+      <span>Bug Reporting</span>
+      <span>JIRA</span>
+      <span>Test Case Design</span>
+      <span>Basic Automation</span>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <h3>Portfolio Projects</h3>
+    <p class="subtitle">
+      Selected QA projects demonstrating my testing approach, documentation, and tools usage.
+    </p>
+
+    <div class="grid">
+
+      <div class="card">
+        <h4>E-Commerce QA Testing (LUMA)</h4>
+        <ul>
+          <li>Scope: Login, Registration, Product, Cart</li>
+          <li>Test Type: Functional, Regression</li>
+          <li>Deliverables: Test cases, test execution, bug reports</li>
+        </ul>
+        <a href="#" target="_blank">View Repository →</a>
+      </div>
+
+      <div class="card">
+        <h4>API Testing Project</h4>
+        <ul>
+          <li>API testing using Postman</li>
+          <li>Positive & negative scenarios</li>
+          <li>Status code & response validation</li>
+        </ul>
+        <a href="#" target="_blank">View Repository →</a>
+      </div>
+
+      <div class="card">
+        <h4>Automation Practice</h4>
+        <ul>
+          <li>Basic UI automation practice</li>
+          <li>Understanding test flow & execution</li>
+          <li>Exploring automation concepts</li>
+        </ul>
+        <a href="#" target="_blank">View Repository →</a>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    © 2025 Kaneko00 · Quality Assurance Portfolio
+  </footer>
+
+</body>
+</html>
